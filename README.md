@@ -9,3 +9,5 @@ https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html
 
 该课程包括41个视频讲座和13套作业。 它于2022年秋季在俄罗斯入侵乌克兰期间在基辅国立大学远程教授
 
+## latex
+https://zhuanlan.zhihu.com/p/508559139
